@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1e325b18.css",
-    "main.js": "/static/js/main.e2b08858.js",
+    "main.css": "/static/css/main.f17f77e6.css",
+    "main.js": "/static/js/main.fa30e5b5.js",
     "static/media/Aboutimg.gif": "/static/media/Aboutimg.71e5e0353f8856e8128d.gif",
     "static/media/beautybebo.png": "/static/media/beautybebo.b4222d562bdecc1af199.png",
     "static/media/flipkart1.png": "/static/media/flipkart1.424039a20a31ee065178.png",
@@ -24,11 +24,11 @@
     "static/media/testimonial-1.webp": "/static/media/testimonial-1.8e05fd5dbc71387931b5.webp",
     "static/media/about.svg": "/static/media/about.192e39ff229e6eb06083.svg",
     "index.html": "/index.html",
-    "main.1e325b18.css.map": "/static/css/main.1e325b18.css.map",
-    "main.e2b08858.js.map": "/static/js/main.e2b08858.js.map"
+    "main.f17f77e6.css.map": "/static/css/main.f17f77e6.css.map",
+    "main.fa30e5b5.js.map": "/static/js/main.fa30e5b5.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e325b18.css",
-    "static/js/main.e2b08858.js"
+    "static/css/main.f17f77e6.css",
+    "static/js/main.fa30e5b5.js"
   ]
 }
