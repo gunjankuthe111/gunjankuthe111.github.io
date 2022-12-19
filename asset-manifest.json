@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.09b0d220.css",
-    "main.js": "/static/js/main.c68f4374.js",
-    "static/media/Aakash.pdf": "/static/media/Aakash.cdb8798ded0fd1c362fc.pdf",
+    "main.css": "/static/css/main.1e325b18.css",
+    "main.js": "/static/js/main.e2b08858.js",
     "static/media/Aboutimg.gif": "/static/media/Aboutimg.71e5e0353f8856e8128d.gif",
     "static/media/beautybebo.png": "/static/media/beautybebo.b4222d562bdecc1af199.png",
     "static/media/flipkart1.png": "/static/media/flipkart1.424039a20a31ee065178.png",
     "static/media/cronometer.png": "/static/media/cronometer.c0c1c86e48d44fa0b7b6.png",
     "static/media/crickinfo.png": "/static/media/crickinfo.b881713492465158f6be.png",
     "static/media/nordstrom1.png": "/static/media/nordstrom1.06afdd83e0e3bedf6116.png",
+    "static/media/credbee.png": "/static/media/credbee.6d0fbc5e787e58989e31.png",
     "static/media/testimonial-2.webp": "/static/media/testimonial-2.4c1e7c2fe42e548d2e0f.webp",
+    "static/media/Gunjan_Kuthe_Resume.pdf": "/static/media/Gunjan_Kuthe_Resume.46edb43365f08dbaa257.pdf",
     "static/media/mongoose.png": "/static/media/mongoose.998152e4bc5fdd366c2c.png",
     "static/media/aakash.png": "/static/media/aakash.ed455e5ef76cffc39555.png",
     "static/media/mongodb.png": "/static/media/mongodb.2a1528ddc31d4ce8518d.png",
     "static/media/express.png": "/static/media/express.cca64e0f360897258ecb.png",
     "static/media/testimonial-3.webp": "/static/media/testimonial-3.677360499dd5a97f022a.webp",
-    "static/media/logo.svg": "/static/media/logo.b40a46869d8e3421cad9bf9a0b71804b.svg",
     "static/media/services.svg": "/static/media/services.0d43785bd1f41e4d0371.svg",
     "static/media/portfolio.svg": "/static/media/portfolio.bff8b39169bade93c32b.svg",
     "static/media/reactjs.png": "/static/media/reactjs.396536ced87da4ba25b4.png",
@@ -24,11 +24,11 @@
     "static/media/testimonial-1.webp": "/static/media/testimonial-1.8e05fd5dbc71387931b5.webp",
     "static/media/about.svg": "/static/media/about.192e39ff229e6eb06083.svg",
     "index.html": "/index.html",
-    "main.09b0d220.css.map": "/static/css/main.09b0d220.css.map",
-    "main.c68f4374.js.map": "/static/js/main.c68f4374.js.map"
+    "main.1e325b18.css.map": "/static/css/main.1e325b18.css.map",
+    "main.e2b08858.js.map": "/static/js/main.e2b08858.js.map"
   },
   "entrypoints": [
-    "static/css/main.09b0d220.css",
-    "static/js/main.c68f4374.js"
+    "static/css/main.1e325b18.css",
+    "static/js/main.e2b08858.js"
   ]
 }
